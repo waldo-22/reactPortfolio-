@@ -49,17 +49,6 @@ export default function Home() {
       </div>
       
 
-      <div>Try My Games!</div>
-
-      <h1>Rock, Paper, Scissors</h1>
-      <h3>Description: Play rock, paper, or Scissors with an AI!</h3>
-      
-
-
-
-
-
-
 
 
 
