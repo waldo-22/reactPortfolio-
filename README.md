@@ -8,7 +8,8 @@ This is a profile I had been tasked to make using react JS. This is a clean and 
 
 Please code responsibly
 ## Screenshot:
-![alt text](reactprofilescreenshot.png?raw=true) 
+![alt text](https://raw.githubusercontent.com/waldo-22/reactPortfolio-/main/src/assets/img/reactprofilescreenshot.png
+?raw=true) 
 ## Installation:
 (1) Go to my GitHub page "waldo-22" and navigate to "reactProfile" repository. (2) click deployed link
 ## Usage:
