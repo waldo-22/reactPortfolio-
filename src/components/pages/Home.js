@@ -53,7 +53,7 @@ export default function Home() {
         <h1>Skills And Trade</h1>
       <a href="https://docs.google.com/document/d/1liyCcq_EasESWtMTfsrcsYcqI-m5U1Nc/edit?usp=sharing&ouid=110244157607918638497&rtpof=true&sd=true">
         <Image
-          src={require("./../../assets/img/devpic.png")}
+          src={require("./../../assets/img/devpic2.png")}
           alt="Github"
           width={120}
           href="https://docs.google.com/document/d/1liyCcq_EasESWtMTfsrcsYcqI-m5U1Nc/edit?usp=sharing&ouid=110244157607918638497&rtpof=true&sd=true"
